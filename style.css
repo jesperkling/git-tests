@@ -8,6 +8,9 @@ body {
 
 h1 {
   font-size: larger;
+  font-family: "Roboto Slab", serif;
+  font-weight: 900;
+  font-size: 70px;
 }
 
 h2 {
@@ -16,4 +19,5 @@ h2 {
 
 p {
   color: crimson;
+  font-size: 18px;
 }
